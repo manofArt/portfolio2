@@ -1,0 +1,143 @@
+<svg id="right_plus_icon_copy" data-name="right plus icon copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="298" viewBox="0 0 320 298">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e8e8e8;
+      }
+
+      .cls-1, .cls-8 {
+        stroke: #232323;
+      }
+
+      .cls-1, .cls-12, .cls-13, .cls-14, .cls-15, .cls-2, .cls-20, .cls-7, .cls-8 {
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-12 {
+        stroke-dasharray: 4 2;
+      }
+
+      .cls-1, .cls-11, .cls-12, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-2, .cls-20, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-10, .cls-18, .cls-2, .cls-7, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        filter: url(#filter);
+      }
+
+      .cls-4 {
+        fill: #ff9c00;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #ffa800;
+        stroke-width: 2px;
+      }
+
+      .cls-17, .cls-9 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-10 {
+        stroke-width: 0.8px;
+      }
+
+      .cls-11 {
+        fill: #353535;
+      }
+
+      .cls-12, .cls-13, .cls-14 {
+        stroke: #fff;
+      }
+
+      .cls-15, .cls-16, .cls-17 {
+        stroke: #353535;
+      }
+
+      .cls-16 {
+        stroke-width: 0.4px;
+      }
+
+      .cls-18, .cls-19 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-19, .cls-20 {
+        stroke: #ff9c00;
+      }
+    </style>
+    <filter id="filter" x="145" y="21" width="62" height="259" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="1.963" dy="0.382" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3"/>
+      <feFlood result="flood" flood-opacity="0.09"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dx="1.963" dy="0.382" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1.732"/>
+      <feFlood result="flood-2" flood-opacity="0.46"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <image id="Background" width="320" height="298" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAAEqCAYAAABk/4mWAAAD5UlEQVR4nO3UAQ3AQBDDsNv4c+4DiU0hUr5tO4CgX3SgygCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQCDLAIEsAwSyDBDIMkAgywCBLAMEsgwQyDJAIMsAgSwDBLIMEMgyQKDp7h61rAZQZyqz5gAAAABJRU5ErkJggg=="/>
+  <path class="cls-1" d="M-30-14H362V331H-30V-14Z"/>
+  <g style="fill: none; filter: url(#filter)">
+    <path id="bold_vertical_line_R_1" data-name="bold vertical line R 1" class="cls-2" d="M170.319,32.118l-16.3,22.2v62.208l16.12,20.553V244.618L193.4,267.923" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#bold_vertical_line_R_1" style="stroke: #000; filter: none; fill: none"/>
+  <path class="cls-3" d="M162.959,81.105h0.428v3.423h-0.428V81.105Z"/>
+  <path class="cls-3" d="M161.464,82.6h3.417v0.428h-3.417V82.6Z"/>
+  <path class="cls-3" d="M160,247.38h0.752V253.4H160V247.38Z"/>
+  <path class="cls-3" d="M157.368,250.015h6.014v0.753h-6.014v-0.753Z"/>
+  <path class="cls-3" d="M137.8,141.234h1.256V151.3H137.8V141.234Z"/>
+  <path class="cls-3" d="M133.407,145.638h10.049V146.9H133.407v-1.259Z"/>
+  <path class="cls-4" d="M273.86,42.97h-1.084v9.046h1.084V42.97Z"/>
+  <path class="cls-4" d="M281.921,51.045h-9.03v1.086h9.03V51.045Z"/>
+  <path class="cls-4" d="M281.757,43.65l-0.776-.758-8.16,8.383,0.776,0.758Z"/>
+  <path id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-5" d="M297.083,244.581a1.87,1.87,0,1,1-1.94,1.792A1.869,1.869,0,0,1,297.083,244.581Z"/>
+  <circle class="cls-6" cx="301.61" cy="241.844" r="1.859"/>
+  <circle id="Ellipse_2_copy_2" data-name="Ellipse 2 copy 2" class="cls-6" cx="305.594" cy="237.281" r="1.875"/>
+  <path id="_4_circles" data-name="4 circles" class="cls-7" d="M300.794,33.926a1.456,1.456,0,1,1-1.454,1.456A1.455,1.455,0,0,1,300.794,33.926Zm0,6.686a1.456,1.456,0,1,1-1.454,1.456A1.455,1.455,0,0,1,300.794,40.613Zm5.9-6.531a1.456,1.456,0,1,1-1.454,1.456A1.455,1.455,0,0,1,306.692,34.082Zm0,6.531a1.456,1.456,0,1,1-1.454,1.456A1.455,1.455,0,0,1,306.692,40.613Z"/>
+  <path id="thin_vertical_line_R_2" data-name="thin vertical line R 2" class="cls-8" d="M295.74,312.466l0.228-54.173,20.912-20.949V155.717l-11.778-11.8V67.347L316.4,56.03V28.1L294.045,5.7v-42.86"/>
+  <path class="cls-9" d="M0.648,0.723l22.762,22.8H73.388L81.8,15.1h36.617l9.9,9.914H235.2L248.558,38.4h37.607v63.45"/>
+  <circle class="cls-10" cx="286.313" cy="105.578" r="2.719"/>
+  <path class="cls-11" d="M11.117,191.824H62.084l2.474,2.479h14.35l1.979-1.983h65.318l2.474,2.479v1.982H7.158v-2.974Z"/>
+  <path id="Shape_2_copy" data-name="Shape 2 copy" class="cls-11" d="M181.5,209.261h48.65l2.362-2.479h13.7l1.889,1.983h62.349l2.361-2.479V204.3H177.716v2.974Z"/>
+  <path class="cls-12" d="M182.876,206.782h43.8"/>
+  <path class="cls-12" d="M249.961,206.782h59.38"/>
+  <path class="cls-12" d="M79.9,194.8h62.843"/>
+  <path class="cls-12" d="M7.653,194.8H63.074"/>
+  <circle class="cls-13" cx="143.484" cy="194.547" r="1.234"/>
+  <path id="Ellipse_4_copy" data-name="Ellipse 4 copy" class="cls-14" d="M182.417,205.874a1.239,1.239,0,1,1-1.237,1.239A1.238,1.238,0,0,1,182.417,205.874Z"/>
+  <path class="cls-15" d="M0.375,206.321L9.437,215.4v19.366l6.041,6.052v35.1l-7.249,7.262v31.469"/>
+  <path class="cls-16" d="M160.559,311.8l-6.928-6.94-5.938-5.949H136.807l-6.433-6.444H109.591l-6.432-6.444H62.088l-17.319,17.35H33.388l-7.422-7.436v-11.4L23,281.557v-46.1l2.969-2.974,0.027-35.744"/>
+  <path class="cls-17" d="M45.758,312.29l17.814-17.845H97.716l7.422,7.436h21.278l4.453,4.461"/>
+  <g id="Group_1_copy_6" data-name="Group 1 copy 6">
+    <path class="cls-18" d="M18.677,48.253h0.75v6.26h-0.75v-6.26Z"/>
+    <path class="cls-18" d="M12.641,54.5h6.8V55.13h-6.8V54.5Z"/>
+    <path class="cls-3" d="M12.635,48.724l0.537-.524L18.818,54l-0.537.524Z"/>
+  </g>
+  <g id="Group_1_copy_7" data-name="Group 1 copy 7">
+    <path class="cls-18" d="M28.677,48.253h0.75v6.26h-0.75v-6.26Z"/>
+    <path class="cls-18" d="M22.641,54.5h6.8V55.13h-6.8V54.5Z"/>
+    <path class="cls-3" d="M22.635,48.724l0.537-.524L28.818,54l-0.537.524Z"/>
+  </g>
+  <g id="Group_1_copy_8" data-name="Group 1 copy 8">
+    <path class="cls-18" d="M28.677,38.253h0.75v6.26h-0.75v-6.26Z"/>
+    <path class="cls-18" d="M22.641,44.5h6.8V45.13h-6.8V44.5Z"/>
+    <path class="cls-3" d="M22.635,38.724l0.537-.524L28.818,44l-0.537.524Z"/>
+  </g>
+  <g id="Group_1_copy_9" data-name="Group 1 copy 9">
+    <path class="cls-19" d="M18.677,38.253h0.75v6.26h-0.75v-6.26Z"/>
+    <path class="cls-19" d="M12.641,44.5h6.8v1h-6.8v-1Z"/>
+    <path class="cls-20" d="M12.635,38.724l0.537-.524L18.818,44l-0.537.524Z"/>
+  </g>
+</svg>
